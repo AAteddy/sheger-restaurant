@@ -83,6 +83,7 @@
 
 .app__navbar-smallscreen_links {
     list-style: none;
+    margin-top: 4rem;
 }
 
 .app__navbar-smallscreen_links li {
